@@ -12,8 +12,8 @@ Some demo will be here...
 
 ## Contents
 
-- [Demo-Preview](#demo-preview)
 - [Rolland-Garros v.2 iOS](#rolland-garros-v2-ios)
+- [Demo-Preview](#demo-preview)
 - [Contents](#contents)
 - [Resources](#resources)
 
