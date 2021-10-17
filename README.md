@@ -34,6 +34,14 @@ Install [Homebrew](https://brew.sh/)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
+Install [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
+
+```
+brew install fastlane
+```
+
+[Set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
 Install [bundler](https://bundler.io/)
 
 Navigate to project's folder in terminal and run
@@ -46,8 +54,6 @@ for installing gems.
 
 Make sure that you have access for all necessary github repositories [here](https://github.com/netcosports/Roland_Garros_v2_iOS/blob/development/Podfile).
 
-[Set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-
 For installing pods run 
 
 ```
@@ -58,11 +64,6 @@ For updating pods run
 
 ```
 bundle exec pods update
-```
-Install [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
-
-```
-brew install fastlane
 ```
 
 # Resources
