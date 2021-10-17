@@ -18,25 +18,57 @@ Some demo will be here...
 
 To use this project, first clone the repo on your device using the command below:
 
-```git init```
+```
+git init
+```
 
-```git clone https://github.com/netcosports/Roland_Garros_v2_iOS.git```
+```
+git clone https://github.com/netcosports/Roland_Garros_v2_iOS.git
+```
 
-Make sure you have the latest version of the Xcode command line tools installed:
+Make sure thay you have the latest version of the Xcode command line tools installed:
 
 ```
 xcode-select --install
 ```
 
-Install _fastlane_ using
+Install [Homebrew](https://brew.sh/)
+
 ```
-[sudo] gem install fastlane -NV
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-or alternatively using `brew install fastlane`
+
+Install [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
+
+```
+brew install fastlane
+```
 
 [Set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-Navigate to project's folder in terminal and run ```bundle install``` for installing gems
+Install [bundler](https://bundler.io/)
+
+Navigate to project's folder in terminal and run
+
+```
+bundle install
+``` 
+
+for installing gems.
+
+Make sure that you have access for all necessary github repositories [here](https://github.com/netcosports/Roland_Garros_v2_iOS/blob/development/Podfile).
+
+For installing pods run 
+
+```
+bundle exec pods install
+```
+
+For updating pods run 
+
+```
+bundle exec pods update
+```
 
 # Resources
 [(Back to contents)](#contents)
