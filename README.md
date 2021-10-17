@@ -1,6 +1,6 @@
 # Rolland-Garros v.2 iOS
 
-_Rolland-Garrod_ is the official iOS application of the Rolland-Garrod tournament.
+_Rolland-Garros_ is the official iOS application of the Rolland-Garros tournament.
 
 # Demo-Preview
 
