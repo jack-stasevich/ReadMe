@@ -6,10 +6,6 @@ _Rolland-Garrod_ is the official iOS application of the Rolland-Garrod tournamen
 
 Some demo will be here...
 
-# Installation
-
-
-
 ## Contents
 
 - [Rolland-Garros v.2 iOS](#rolland-garros-v2-ios)
@@ -38,6 +34,9 @@ Install _fastlane_ using
 ```
 or alternatively using `brew install fastlane`
 
+[Set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+Navigate to project's folder in terminal and run ```bundle install``` for installing gems
 
 # Resources
 [(Back to contents)](#contents)
