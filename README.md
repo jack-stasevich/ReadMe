@@ -41,23 +41,21 @@ Install [bundler](https://bundler.io/):
 gem install bundler:2.2.16
 ```
 
-Navigate to project's folder in terminal and run
+Navigate to project's folder in terminal and for gems installing run:
 
 ```
 bundle install
 ``` 
 
-for installing gems.
-
 Make sure that you have access for all necessary github repositories [here](https://github.com/netcosports/Roland_Garros_v2_iOS/blob/development/Podfile).
 
-For installing pods run 
+For installing pods run:
 
 ```
 bundle exec pods install
 ```
 
-For updating pod run 
+For updating pod run:
 
 ```
 bundle exec pod update
