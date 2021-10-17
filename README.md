@@ -30,13 +30,13 @@ Make sure thay you have the latest version of the Xcode command line tools insta
 xcode-select --install
 ```
 
-Install [Homebrew](https://brew.sh/)
+Install [Homebrew](https://brew.sh/):
 
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-To Install [bundler](https://bundler.io/) run
+Install [bundler](https://bundler.io/):
 ```
 gem install bundler:2.2.16
 ```
