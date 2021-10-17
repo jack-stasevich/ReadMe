@@ -18,7 +18,7 @@ Some demo will be here...
 
 To use this project, first [set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
-Сlone the repo on your device using the command below:
+Сlone the repo on your device:
 
 ```
 git clone https://github.com/netcosports/Roland_Garros_v2_iOS.git
