@@ -57,10 +57,10 @@ For installing pods run
 bundle exec pods install
 ```
 
-For updating pods run 
+For updating pod run 
 
 ```
-bundle exec pods update
+bundle exec pod update
 ```
 
 # Resources
