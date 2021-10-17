@@ -16,7 +16,9 @@ Some demo will be here...
 # Installation
 [(Back to contents)](#contents)
 
-To use this project, first clone the repo on your device using the command below:
+To use this project, first [set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+
+Сlone the repo on your device using the command below:
 
 ```
 git clone https://github.com/netcosports/Roland_Garros_v2_iOS.git
@@ -34,15 +36,10 @@ Install [Homebrew](https://brew.sh/)
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Install [Fastlane](https://docs.fastlane.tools/getting-started/ios/setup/)
-
+To Install [bundler](https://bundler.io/) run
 ```
-brew install fastlane
+gem install bundler:2.2.16
 ```
-
-[Set your connection to github with SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
-
-Install [bundler](https://bundler.io/)
 
 Navigate to project's folder in terminal and run
 
