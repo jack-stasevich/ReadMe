@@ -61,6 +61,8 @@ For updating pod run:
 bundle exec pod update
 ```
 
+For installing vpn client go [here](https://vpn.cedoni.com/). Ask your manager for your credentials, open `AnyConnect` section, download Cisco AnyConnect Secure Mobility Client and install it.
+
 # Resources
 [(Back to contents)](#contents)
 
